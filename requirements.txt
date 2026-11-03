@@ -1,0 +1,8 @@
+tensorflow>=2.15
+librosa>=0.10
+soundfile
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm

@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+dataset/
+dataset_fake/
+features/
+.vscode/
+.ipynb_checkpoints/
